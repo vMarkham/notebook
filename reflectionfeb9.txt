@@ -1,0 +1,8 @@
+What went well?
+  I very much enjoyed just playing with the command line. It just     makes more sense when I get hands-on time.
+Set the stage?
+  I feel like I managed to catch up with the rest of the class quickly today by focusing and removing distractions. On the flip side, that would not have been necessary had I not been late. I came in VERY seriously today, and I think it paid off. My mind was clear and I had very little trouble quickly recapping on my own in 20-30 minutes what the other did for the first three hours.
+What did not work?
+  Being late. It made it more difficult to get into the flow of work, and I missed valuable instruction for 3 hours. I may have been able to "make up the work" but I have no doubt that I missed out on valuable insights from the instructors and fellow students.
+What have I learned today?
+  I have learned many command line commands, and how to string them together with pipe "|".I learned to move with mv, remove with rm. I learned -r to apply a command recursively to a directories entire tree. 

@@ -1,0 +1,10 @@
+more notes
+
+Git
+
+Unstaged
+  Will not be committed in the next commit
+Staged
+  Will be committed
+Commit
+  Save the staged files in the repository
