@@ -1,6 +1,6 @@
 more notes
 
-Git
+Git Notes
 
 Unstaged
   Will not be committed in the next commit
@@ -8,3 +8,20 @@ Staged
   Will be committed
 Commit
   Save the staged files in the repository
+
+  Git init
+    Create a new git repo
+  git status
+    check status of staging area
+  git add
+    add files to the staging area
+  git commit
+    commit files to the git repo
+  git log
+    Check the commit history
+5 pieces of a commit
+  commit ID
+  Signature (Name + email)
+  Timestamp
+  Message
+  Changes
