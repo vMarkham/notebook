@@ -25,3 +25,5 @@ Commit
   Timestamp
   Message
   Changes
+Git push -u origin master
+  pushes the current head to remote origin master and links them together.
